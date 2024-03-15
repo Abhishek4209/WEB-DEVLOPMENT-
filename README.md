@@ -37,3 +37,29 @@ POST
 
 
 ```
+
+
+### week-04
+#### MORDEN HTML
+```bash
+
+➡️ HTML5
+➡️  semantic tags
+
+➡️ HTML entities
+    &lt;hellow&gt 
+
+
+
+
+➡️ Accessibility in HTML
+
+
+
+
+
+
+
+
+
+```
