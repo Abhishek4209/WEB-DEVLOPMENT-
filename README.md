@@ -110,3 +110,22 @@ Background:-
 
 
 ```
+
+
+### WEEK-07
+#### CSS:-
+```
+bash
+
+Typography - Text Properties:-
+Chrome dev tools for css and html:-
+CSS Box Model:-
+Weidth Hieght:-
+
+
+CSS !important:-
+
+
+
+
+```
