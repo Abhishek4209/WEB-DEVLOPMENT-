@@ -125,6 +125,22 @@ Weidth Hieght:-
 
 CSS !important:-
 
+```
+
+### WEEK-08:-
+
+```
+bash
+
+* Display property and Normal Flow:-
+
+* Float and Clear:-
+
+* CSS Positions:-
+
+* CSS Positions (Part 2):-
+
+* CSS Positions (Part 3):-
 
 
 
