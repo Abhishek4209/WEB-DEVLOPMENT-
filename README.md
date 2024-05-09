@@ -145,3 +145,48 @@ bash
 
 
 ```
+
+### WEEK-09:-
+
+```
+bash
+
+* Introduction to CSS Flexbox:-
+
+*  Flex container properties:-
+
+
+
+
+
+```
+### WEEK-10:-
+
+```
+bash
+
+* Introduction to Grid
+* Grid container properties part 1
+* Grid container properties Part 2
+* Grid container properties Part 3
+* Grid item properties
+
+
+
+
+
+
+```
+
+### WEEK-10:-
+
+```bash
+
+* Introduction to Media Queries & RWD:-
+
+* @media screen:-
+
+* mobile Screen:-
+
+
+```
