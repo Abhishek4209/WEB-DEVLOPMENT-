@@ -178,7 +178,7 @@ bash
 
 ```
 
-### WEEK-10:-
+### WEEK-11:-
 
 ```bash
 
@@ -187,6 +187,20 @@ bash
 * @media screen:-
 
 * mobile Screen:-
+
+
+```
+### WEEK-12:-
+
+```bash
+
+* Pseudo element:-
+
+*  Pseudo class:-
+
+* Tranform:-
+
+* Transition:-
 
 
 ```
