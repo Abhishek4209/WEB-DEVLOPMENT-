@@ -204,3 +204,36 @@ bash
 
 
 ```
+
+### WEEK-13:-
+
+```bash
+
+* Animation
+
+* CSS Webkit
+
+* Chrome devlopertools
+
+
+
+```
+
+
+### WEEK-14:-
+
+```bash
+
+* Introduction to version control system
+* Working of VCS
+* Why to use git
+* What is GitHub
+* Making New Repo on Github
+*  Git hashes and blobs
+*
+*
+*
+*
+*
+*
+```
