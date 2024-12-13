@@ -1,0 +1,35 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    padding:0px;
+    margin: 0px;
+}
+
+
+
+
+
+
+
+
+*{
+    box-sizing: inherit;
+}
+.section-light{
+    background-color: #cb1717;
+    color:black;
+
+}
+
+.section-dark{
+
+    background-color:rosybrown;
+color: #cb1717;
+}
+
+.first-image{
+background-image:url(E:\PW -WEB DEVLOPMENT\week-08\abhishek.png);
+min-height: 500px;
+}

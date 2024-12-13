@@ -237,3 +237,12 @@ bash
 *
 *
 ```
+
+### WEEK-16:-
+
+```bash
+
+* Java Script
+* Setting up env  
+*  Values & datatypes
+* 
